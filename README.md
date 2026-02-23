@@ -11,7 +11,7 @@
 ## Overview
 This project consists of UX research to increase the usability and user satisfaction of mobile D&amp;D character sheets on the basis of dndbeyond.com. 
 
-The project succeeded by creating a high-fidelity prototype that scored a near-perfect 6.09 out of 7   on the [USE questionnaire](https://www.researchgate.net/publication/230786746_Measuring_Usability_with_the_USE_Questionnaire). The original website had only reached 4.18 out of 7 on the USE questionnaire.
+The project succeeded by creating a high-fidelity prototype that scored a near-perfect 6.09 out of 7   on the [USE questionnaire](https://www.researchgate.net/publication/230786746_Measuring_Usability_with_the_USE_Questionnaire). The original website and industry leader had only reached 4.18 out of 7 on the USE questionnaire.
 
 
 
@@ -40,7 +40,7 @@ The main issues that were identified and improved within this project are:
 - Giving access to all needed resources
 
 Below, example screenshots of the prototype interface can be found.
-
+For comparision, D&D Beyonds mobile versions can be found within the appendices folder.
 
 <img width="324" height="720" alt="image" src="https://github.com/user-attachments/assets/4f53001b-905e-426c-8a5a-1100e539ef96" />
 <img width="324" height="720" alt="image" src="https://github.com/user-attachments/assets/052f1c33-9478-4e1b-b5e4-a915988beb87" />
@@ -57,11 +57,11 @@ The image below visualises the results of the first two testing stages, in which
 
 <img width="527" height="632" alt="image" src="https://github.com/user-attachments/assets/8396997f-32ec-4b17-b282-5fed12f12e9d" />
 
+As can be seen above, the mid-fidelity prototype scored significantly higher than the original webiste, especially within the -ease of use- and -ease of learning- categories, despite having limited functionality as a prototype.
+
 ### Field-based testing 
 The image velow visualises the results of the final testing stage, in which participants used both the website and the high-fidelity prototype within a real, ~3 hour long  D&amp;D session.
 
 <img width="527" height="712" alt="image" src="https://github.com/user-attachments/assets/94331d34-b028-415b-a690-b3d38b096a91" />
 
-
-
-
+This visualizes the overall great success of the project, as the high-fidelity prototype could not only keep up with the mobile website of the market leader in this intense testing session, but even outscored it in all sections noticeably.
